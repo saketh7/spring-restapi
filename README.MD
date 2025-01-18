@@ -1,4 +1,4 @@
-# Project Title
+# Spring Rest API
 
 Sample Rest API
 
